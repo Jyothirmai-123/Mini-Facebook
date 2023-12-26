@@ -20,9 +20,9 @@ Signup and login securely.
 ### Top 5 Liked Posts
 View the top 5 liked posts on the left side of the login page to discover the trending content.
 ### Post Functionality
-Like posts, comment on posts, view your posts and view the suggested feed.
+Like posts, comment on posts, view your posts and the suggested feed.
 ### Account details
-View your own account details.All the personal details are shown here.
+View your own account details (All the personal details are shown here).
 
 ## Screencaps
 
