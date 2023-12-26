@@ -50,8 +50,13 @@ The pictures which are posted by other users will be displayed here.
 ## Note: Running MySQL and Apache using XAMPP
 #### Steps to be followed
 Install XAMPP to manage Apache and MySQL.
-Open the XAMPP Control Panel.
+
+Open the XAMPP Control Panel. 
+
 Start both the Apache and MySQL modules.
+
 Ensure that both the modules are running on their respective ports without any errors.
+
 Change the url address to "http://localhost/foldername/" after clicking on Apache admin and then run the required files.
+
 By clicking on MySQL admin, you can create the database and required tables.
