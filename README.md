@@ -33,12 +33,15 @@ View your own account details.All the personal details are shown here.
 ![image](https://github.com/Jyothirmai-123/Mini-Facebook/assets/113755812/9a7b9cef-b759-4476-8e68-42dcf4b2092a)
 
 ### Home page
+You can navigate through those links to the required page such as my posts,suggested feed and account details.
 ![image](https://github.com/Jyothirmai-123/Mini-Facebook/assets/113755812/20c47285-8d64-4d8d-be24-9c56889c83b8)
 
 ### My posts
+All the posts which you have posted will be displayed here.
 ![image](https://github.com/Jyothirmai-123/Mini-Facebook/assets/113755812/4f030b0b-17ff-4cc4-bff4-a019c5171a63)
 
 ### Suggested Feed
+The pictures which are posted by other users will be displayed here.
 ![image](https://github.com/Jyothirmai-123/Mini-Facebook/assets/113755812/6389931e-6095-4886-a9d3-ba9ed1df64bd)
 
 
