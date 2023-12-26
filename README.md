@@ -22,4 +22,23 @@ View the top 5 liked posts on the left side of the login page to discover the tr
 ### Post Functionality
 Like posts, comment on posts, view your posts and view the suggested feed.
 ### Account details
-View your own account details.
+View your own account details.All the personal details are shown here.
+
+## Screencaps
+
+### SignUp page
+![image](https://github.com/Jyothirmai-123/Mini-Facebook/assets/113755812/d9861e33-bf6e-4f79-a6ba-109745599d71)
+
+### Login page
+![image](https://github.com/Jyothirmai-123/Mini-Facebook/assets/113755812/9a7b9cef-b759-4476-8e68-42dcf4b2092a)
+
+### Home page
+![image](https://github.com/Jyothirmai-123/Mini-Facebook/assets/113755812/20c47285-8d64-4d8d-be24-9c56889c83b8)
+
+### My posts
+![image](https://github.com/Jyothirmai-123/Mini-Facebook/assets/113755812/4f030b0b-17ff-4cc4-bff4-a019c5171a63)
+
+### Suggested Feed
+![image](https://github.com/Jyothirmai-123/Mini-Facebook/assets/113755812/6389931e-6095-4886-a9d3-ba9ed1df64bd)
+
+
